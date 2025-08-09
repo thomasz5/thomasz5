@@ -11,7 +11,7 @@
 
 ### Glad to see you here!
 
-I build AI products and full‑stack apps. I move fast. I learn in public.
+I build AI products and full‑stack apps. I move and learn fast.
 
 ### Talking about personal stuff
 
