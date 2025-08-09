@@ -44,7 +44,6 @@ Always excited to meet builders and researchers. Message me on [LinkedIn](https:
 - **Dr. Mike AI Fitness Chatbot** — Personality‑driven fitness coach. PyTorch, Redis, Docker, Supabase, PostgreSQL. Ingests 15+ hours of transcripts.
 - **Autonomous Poker Bot** — Multi‑stage ML with imitation + RL and GTO ideas. Achieved 2.1 BB/100. 400+ tests across 10M+ scenarios.
 - **Recruitment Intelligence System** — Python scrapers + AWS EC2. Tracks 100+ internships weekly. Cuts manual search time by 50%.
-- **Pncel Research** — Python core for DO‑RA framework, Sphinx docs, and a CLI testing tool with Click + pytest.
 
 ### Skills
 
